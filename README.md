@@ -10,6 +10,8 @@ This is my first project
 
 names of the specific html elements (they are contained in brackets).
 
+---
+
 ##### what are html attributes?
 
 html attributes are created for specific tag manipulation purposes. For example we have:
@@ -23,20 +25,28 @@ html attributes are created for specific tag manipulation purposes. For example 
 
 And for this html element the attribute is `class` we give him a value `my-headline` after which we are able to change current `h1` styles from CSS level, without affecting the other tag without the same class value.
 
+---
+
 ##### what is the role of head and body?
 
 We use EVERY time those elements!!!! (ONCE only in every .html file)
 they both contain the most amount of elements, a code can work without them but it will look un professional and har to understand
+
+---
 
 ##### what type of tags should be in body?
 
 The visible part of the website, for example:
 headings, texts, hyperlinks, banners, images, videos, contact forms, etc.:
 
+---
+
 ##### what type of tags should be in head?
 
 The part of website which is not visible for user, for example:
 meta , link , title , style , script , noscript , and base
+
+---
 
 ##### when and how should tags listed below be used?
 
