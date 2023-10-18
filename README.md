@@ -81,7 +81,10 @@ meta , link , title , style , script , noscript , and base
 ---
 
 ##### how to link CSS to HTML?
-
+to link css to html you need to type in this command into the index.html:
+```html
+<link rel="stylesheet" type="text/css" href="reset.css" />
+```
 ---
 
 ##### what is the prioritization of linked files
