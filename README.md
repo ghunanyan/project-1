@@ -6,13 +6,13 @@ This is my first project
 
 ## HTML
 
-##### what are html tags?
+##### What are html tags?
 
 names of the specific html elements (they are contained in brackets).
 
 ---
 
-##### what are html attributes?
+##### What are html attributes?
 
 html attributes are created for specific tag manipulation purposes. For example we have:
 
@@ -27,28 +27,28 @@ And for this html element the attribute is `class` we give him a value `my-headl
 
 ---
 
-##### what is the role of head and body?
+##### What is the role of head and body?
 
 We use EVERY time those elements!!!! (ONCE only in every .html file)
 they both contain the most amount of elements, a code can work without them but it will look un professional and har to understand
 
 ---
 
-##### what type of tags should be in body?
+##### What type of tags should be in body?
 
 The visible part of the website, for example:
 headings, texts, hyperlinks, banners, images, videos, contact forms, etc.:
 
 ---
 
-##### what type of tags should be in head?
+##### What type of tags should be in head?
 
 The part of website which is not visible for user, for example:
 meta , link , title , style , script , noscript , and base
 
 ---
 
-##### when and how should tags listed below be used?
+##### When and how should tags listed below be used?
 
 | HTML Tag           | When and How should be used                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -80,14 +80,14 @@ meta , link , title , style , script , noscript , and base
 
 ---
 
-##### how to link CSS to HTML?
+##### Wow to link CSS to HTML?
 to link css to html you need to type in this command into the index.html:
 ```html
 <link rel="stylesheet" type="text/css" href="reset.css" />
 ```
 ---
 
-##### what is the prioritization of linked files
+##### What is the prioritization of linked files
 the file that is linked the lowest has the highest prority, the file with a higher priority overrides anything contradicting that the less prioritized file has with the more prioritized one.
 
 ---
@@ -96,14 +96,14 @@ the file that is linked the lowest has the highest prority, the file with a high
 
 ---
 
-##### what is css class? (what is the character)
+##### What is css class? (what is the character)
 css style is an attribute that defines a class of html elements  in order to style and format those elements with css, to use a class you input the character "."
 
 ---
 
-##### what is css id? (what is the character)
+##### What is css id? (what is the character)
 css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
-##### what is the proper structure for css blocks?
+##### What is the proper structure for css blocks?
 the proper stucture of css block is like this:
 ```html
 <body>
@@ -136,7 +136,7 @@ it has to contain a proper structure and contain all of the tags needed
 
 ---
 
-##### how cascading works in CSS? [CSS prioritization] (probably video)
+##### How cascading works in CSS? [CSS prioritization] (probably video)
 
 ---
 
@@ -144,11 +144,11 @@ it has to contain a proper structure and contain all of the tags needed
 
 ---
 
-##### what are attribute and value in CSS
+##### What are attribute and value in CSS
 
 ---
 
-##### find out what do these attributes do:
+##### Find out what do these attributes do:
 
 | Attribute        | What does it do? |
 | ---------------- | ---------------- |
