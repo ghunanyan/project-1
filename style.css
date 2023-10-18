@@ -1,10 +1,54 @@
 body {
-    background: #ffffff;
+  font-family: "Times New Roman", Times, serif;
 }
-
-div {
-    display: block;
-    width: 1300px;
-    height: 2000px;
-    background: #ffffff;
+.main {
+  width: 100%;
+  background-color: #fff;
+}
+.main-box {
+  width: (100% - 2 * 30px);
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.section-one {
+  background-color: #00a2e8;
+  border: 3px solid #000000;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.section-one .title {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+.section-two {
+  background-color: #efe4b0;
+  border: 3px solid #000000;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  min-height: 100px;
+}
+.section-three {
+  background-color: #00a2e8;
+  border: 3px solid #000000;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.section-three-box {
+  background-color: #efe4b0;
+  border: 3px solid #000000;
+  border-radius: 8px;
+  padding: 20px;
+}
+.section-three-box.section-three-box-one {
+  margin-bottom: 15px;
 }
