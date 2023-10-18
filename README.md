@@ -78,18 +78,29 @@ meta , link , title , style , script , noscript , and base
 
 ## HTML & CSS
 
+---
+
 ##### how to link CSS to HTML?
+
+---
 
 ##### what is the prioritization of linked files
 
+---
+
 ## CSS
+
+---
 
 ##### what is css class? (what is the character)
 css style is an attribute that defines a class of html elements  in order to style and format those elements with css, to use a class you input the character "."
+
+---
+
 ##### what is css id? (what is the character)
 css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
 ##### what is the proper structure for css blocks?
-the proper stucture of css block is like this
+the proper stucture of css block is like this:
 ```html
 <body>
   <section>
@@ -117,11 +128,21 @@ p {
   background: cyan;
 }
 ```
+it has to contain a proper structure and contain all of the tags needed
+
+---
+
 ##### how cascading works in CSS? [CSS prioritization] (probably video)
+
+---
 
 ##### (BONUS) find CSS reset defaults file and integrate to HTML
 
+---
+
 ##### what are attribute and value in CSS
+
+---
 
 ##### find out what do these attributes do:
 
@@ -141,4 +162,9 @@ p {
 | margin           | TODO             |
 | padding          | TODO             |
 
+
+---
+
 ##### (EXTRA BONUS) what is Flexbox?
+
+---
