@@ -1,0 +1,10 @@
+body {
+    background: black;
+}
+
+div {
+    display: block;
+    width: 1300px;
+    height: 2000px;
+    background: white;
+}
