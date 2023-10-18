@@ -81,13 +81,17 @@ meta , link , title , style , script , noscript , and base
 ---
 
 ##### How to link CSS to HTML?
+
 to link css to html you need to type the following command into the index.html:
+
 ```html
 <link rel="stylesheet" type="text/css" href="reset.css" />
 ```
+
 ---
 
 ##### What is the prioritization of linked files
+
 the file that is linked the lowest has the highest prority, the file with a higher priority overrides anything contradicting that the less prioritized file has with the more prioritized one.
 
 ---
@@ -96,18 +100,26 @@ the file that is linked the lowest has the highest prority, the file with a high
 
 ---
 
+##### What is HEX?
+
+---
+
 ##### What is css class? (what is the character)
-css style is an attribute that defines a class of html elements  in order to style and format those elements with css, to use a class you input the character "."
+
+css style is an attribute that defines a class of html elements in order to style and format those elements with css, to use a class you input the character "."
 
 ---
 
 ##### What is css id? (what is the character)
+
 css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
 
 ---
 
 ##### What is the proper structure for css blocks?
+
 the proper stucture of css block is like this:
+
 ```html
 <body>
   <section>
@@ -115,6 +127,7 @@ the proper stucture of css block is like this:
   </section>
 </body>
 ```
+
 ```css
 body {
   background: beige;
@@ -135,6 +148,7 @@ p {
   background: cyan;
 }
 ```
+
 it has to contain a proper structure and contain all of the tags needed
 
 ---
@@ -168,7 +182,6 @@ it has to contain a proper structure and contain all of the tags needed
 | text-decoration  | TODO             |
 | margin           | TODO             |
 | padding          | TODO             |
-
 
 ---
 
