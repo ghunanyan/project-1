@@ -88,6 +88,7 @@ to link css to html you need to type in this command into the index.html:
 ---
 
 ##### what is the prioritization of linked files
+the file that is linked the lowest has the highest prority, the file with a higher priority overrides anything contradicting that the less prioritized file has with the more prioritized one.
 
 ---
 
