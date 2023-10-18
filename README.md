@@ -51,11 +51,17 @@ meta , link , title , style , script , noscript , and base
 ## CSS
 
 ##### what is css class? (what is the character) 
-##### what is css id? (what is the character) 
+css style is an attribute that defines a class of html elements  in order to style and format those elements with css, to use a class you input the character "."
+##### what is css id? (what is the character)
+css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
 ##### what is the proper structure for css blocks? 
+
 ##### how cascading works in CSS? [CSS prioritsation] (propably video)
+
 ##### (BONUS) find CSS reset defaults file and integrate to HTML 
+
 ##### what are atrribute and vallue in CSS
+
 ##### find out what do these attributes do:
 
 |Attribute|What does it do?|
