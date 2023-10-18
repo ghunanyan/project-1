@@ -89,7 +89,34 @@ css style is an attribute that defines a class of html elements  in order to sty
 ##### what is css id? (what is the character)
 css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
 ##### what is the proper structure for css blocks?
+the proper stucture of css block is like this
+```html
+<body>
+  <section>
+    <p>This is a paragraph!</p>
+  </section>
+</body>
+```
+```css
+body {
+  background: beige;
+}
 
+section {
+  display: block;
+  width: 400px;
+  height: 160px;
+  background: lightgray;
+}
+
+p {
+  width: 50%; /* == 400px * .5 = 200px */
+  height: 25%; /* == 160px * .25 = 40px */
+  margin: 5%; /* == 400px * .05 = 20px */
+  padding: 5%; /* == 400px * .05 = 20px */
+  background: cyan;
+}
+```
 ##### how cascading works in CSS? [CSS prioritization] (probably video)
 
 ##### (BONUS) find CSS reset defaults file and integrate to HTML
