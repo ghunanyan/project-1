@@ -1,10 +1,10 @@
 body {
-  background: black;
+    background: #000000;
 }
 
 div {
-  display: block;
-  width: 1300px;
-  height: 2000px;
-  background: white;
+    display: block;
+    width: 1300px;
+    height: 2000px;
+    background: #ffffff;
 }
