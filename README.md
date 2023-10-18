@@ -103,6 +103,9 @@ css style is an attribute that defines a class of html elements  in order to sty
 
 ##### What is css id? (what is the character)
 css id uses the id of an html to select a specific element, the id for an element is unique in a page, to select the id use thee character "#"
+
+---
+
 ##### What is the proper structure for css blocks?
 the proper stucture of css block is like this:
 ```html
