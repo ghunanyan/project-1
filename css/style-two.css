@@ -4,21 +4,24 @@ body {
 .main {
   width: 100%;
   background-color: #fff;
+  display: flex;
+  padding: 5px;
+  border: 3px solid #000000;
+  border-radius: 8px;
 }
 .section {
-  background-color: rgb(0, 162, 232);
-  min-height: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 30px;
-  padding-right: 15px;
+  width: 100%;
+  margin: 5px;
+  border: 3px solid #000000;
+  border-radius: 8px;
 }
-.container-one {
-  width: (33% - 2 * 30px);
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 30px;
-  padding-right: 15px;
+.section-container {
+  margin: 0 auto;
+  padding: 0 30px;
+  min-height: 400px;
+}
+.section.section-one {
+  background-color: rgb(0, 162, 232);
 }
 .section.section-two {
   background-color: rgb(255, 174, 201);
